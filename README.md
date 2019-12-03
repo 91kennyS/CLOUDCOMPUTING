@@ -8,3 +8,5 @@
 
 # [实验三、Docker基础实验](https://github.com/91kennyS/CLOUDCOMPUTING/blob/master/docs/实验三.md)
 
+- #### 		[使用Dockerfile构建wordpress](https://github.com/91kennyS/CLOUDCOMPUTING/blob/master/docs/Dockerfile.md)
+
