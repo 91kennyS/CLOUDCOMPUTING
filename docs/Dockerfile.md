@@ -12,7 +12,7 @@
 
 
 
-[](/docs/img/x3/图片99.jpg)
+![](/docs/img/x3/图片99.jpg)
 
 
 
@@ -21,7 +21,7 @@
 
 在文件中添加如下内容：
 
-[](/docs/img/x3/图片98.jpg)
+![](/docs/img/x3/图片98.jpg)
 
 
 
@@ -30,7 +30,7 @@
 
 在文件中添加如下内容：
 
-[](/docs/img/x3/图片97.jpg)
+![](/docs/img/x3/图片97.jpg)
 
 
 
@@ -38,13 +38,13 @@
 
 
 
-[](/docs/img/x3/图片95.jpg)
+![](/docs/img/x3/图片95.jpg)
 
 完成后键入：docker run -it --privileged=true -p 4005:80 -d centos:dockerfile /usr/sbin/init
 
 
 
-[](/docs/img/x3/图片94.jpg)
+![](/docs/img/x3/图片94.jpg)
 
 
 
