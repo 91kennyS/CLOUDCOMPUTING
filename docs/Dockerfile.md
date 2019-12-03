@@ -2,13 +2,11 @@
 
 在本地主机新建一个目录（本文为mydocker）存放Dockerfile文件，新建Dockerfile文件：
 
- 
+`mkdir /mydocker`
 
-mkdir /mydocker
+`cd /mydocker`
 
-cd /mydocker
-
-vim Dockerfile
+> `vim Dockerfile`
 
 向Dockerfile文件中添加如下内容：
 
@@ -18,7 +16,8 @@ vim Dockerfile
 
 
 
-vim setup.sql
+> vim setup.sql
+>
 
 在文件中添加如下内容：
 
@@ -26,7 +25,8 @@ vim setup.sql
 
 
 
-vim setup.sh
+> vim setup.sh
+>
 
 在文件中添加如下内容：
 
@@ -48,7 +48,7 @@ vim setup.sh
 
 
 
-![1575414694602](C:\Users\GS43\AppData\Roaming\Typora\typora-user-images\1575414694602.png
+
 
 
 
