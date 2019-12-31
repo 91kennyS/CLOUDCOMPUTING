@@ -10,3 +10,5 @@
 
 - #### 		[使用Dockerfile构建wordpress](https://github.com/91kennyS/CLOUDCOMPUTING/blob/master/docs/Dockerfile.md)
 
+# [实验四、Ceph基础实验](https://github.com/91kennyS/CLOUDCOMPUTING/blob/master/docs/实验四.md)
+
